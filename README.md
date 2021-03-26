@@ -2,13 +2,17 @@
 
 # Code 301 Reading Notes
 
-Here I put my notes, which I collect when I read the web development topics required of me during code 301.
+Here you will find my notes for **Code 301: Intermediate Software Development.**
+
+ Feel free to bookmark this to keep an eye on my Notes updates.
+
+
 
 ## Table of content
 
 Read Num | Read title | Read link
 ------------ | ------------- | --------------
-01 |  SMACSS and Responsive Web Design | [Click here]()
+01 |  SMACSS and Responsive Web Design | [Click here](read01.md)
 02 |  jQuery, Events, and The DOM | [Click here]()
 03 |  Flexbox and Templating | [Click here]()
 04 |  Grid Layout | [Click here]()
