@@ -13,7 +13,7 @@ Here you will find my notes for **Code 301: Intermediate Software Development.**
 Read Num | Read title | Read link
 ------------ | ------------- | --------------
 01 |  SMACSS and Responsive Web Design | [Click here](https://oebitw.github.io/301-Reading-Notes/read01)
-02 |  jQuery, Events, and The DOM | [Click here]()
+02 |  jQuery, Events, and The DOM | [Click here](https://oebitw.github.io/301-Reading-Notes/read02)
 03 |  Flexbox and Templating | [Click here]()
 04 |  Grid Layout | [Click here]()
 05 |  Heroku Deployment | [Click here]()
