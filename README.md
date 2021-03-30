@@ -15,7 +15,7 @@ Read Num | Read title | Read link
 01 |  SMACSS and Responsive Web Design | [Click here](https://oebitw.github.io/301-Reading-Notes/read01)
 02 |  jQuery, Events, and The DOM | [Click here](https://oebitw.github.io/301-Reading-Notes/read02)
 03 |  Flexbox and Templating | [Click here](https://oebitw.github.io/301-Reading-Notes/read03)
-04 |  Grid Layout | [Click here]()
+04 |  Grid Layout | [Click here](https://oebitw.github.io/301-Reading-Notes/read04)
 05 |  Heroku Deployment | [Click here]()
 06 |  Node, Express, and APIs | [Click here]()
 07 |  What is REST | [Click here]()
