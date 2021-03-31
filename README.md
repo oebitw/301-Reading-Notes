@@ -16,7 +16,7 @@ Read Num | Read title | Read link
 02 |  jQuery, Events, and The DOM | [Click here](https://oebitw.github.io/301-Reading-Notes/read02)
 03 |  Flexbox and Templating | [Click here](https://oebitw.github.io/301-Reading-Notes/read03)
 04 |  Grid Layout | [Click here](https://oebitw.github.io/301-Reading-Notes/read04)
-05 |  Heroku Deployment | [Click here]()
+05 |  Heroku Deployment | [Click here](https://oebitw.github.io/301-Reading-Notes/read05)
 06 |  Node, Express, and APIs | [Click here]()
 07 |  What is REST | [Click here]()
 08 |  SQL | [Click here]()
