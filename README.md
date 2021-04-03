@@ -17,7 +17,7 @@ Read Num | Read title | Read link
 03 |  Flexbox and Templating | [Click here](https://oebitw.github.io/301-Reading-Notes/read03)
 04 |  Grid Layout | [Click here](https://oebitw.github.io/301-Reading-Notes/read04)
 05 |  Heroku Deployment | [Click here](https://oebitw.github.io/301-Reading-Notes/read05)
-06 |  Node, Express, and APIs | [Click here]()
+06 |  Node, Express, and APIs | [Click here](https://oebitw.github.io/301-Reading-Notes/read06)
 07 |  What is REST | [Click here]()
 08 |  SQL | [Click here]()
 09 |  Refactoring | [Click here]()
