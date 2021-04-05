@@ -19,7 +19,7 @@ Read Num | Read title | Read link
 05 |  Heroku Deployment | [Click here](https://oebitw.github.io/301-Reading-Notes/read05)
 06 |  Node, Express, and APIs | [Click here](https://oebitw.github.io/301-Reading-Notes/read06)
 07 |  What is REST | [Click here](https://oebitw.github.io/301-Reading-Notes/read07)
-08 |  SQL | [Click here]()
+08 |  SQL | [Click here](https://oebitw.github.io/301-Reading-Notes/read08)
 09 |  Refactoring | [Click here]()
 10 | Call Stack | [Click here]()
 11 | EJS template | [Click here]()
