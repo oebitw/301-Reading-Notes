@@ -20,7 +20,7 @@ Read Num | Read title | Read link
 06 |  Node, Express, and APIs | [Click here](https://oebitw.github.io/301-Reading-Notes/read06)
 07 |  What is REST | [Click here](https://oebitw.github.io/301-Reading-Notes/read07)
 08 |  SQL | [Click here](https://oebitw.github.io/301-Reading-Notes/read08)
-09 | FUNCTIONAL PROGRAMMING & Refactoring | [Click here](https://oebitw.github.io/301-Reading-Notes/read08)
+09 | FUNCTIONAL PROGRAMMING & Refactoring | [Click here](https://oebitw.github.io/301-Reading-Notes/read09)
 10 | Call Stack | [Click here]()
 11 | EJS template | [Click here]()
 12 | EJS Partials | [Click here]()
