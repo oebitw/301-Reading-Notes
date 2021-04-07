@@ -21,7 +21,7 @@ Read Num | Read title | Read link
 07 |  What is REST | [Click here](https://oebitw.github.io/301-Reading-Notes/read07)
 08 |  SQL | [Click here](https://oebitw.github.io/301-Reading-Notes/read08)
 09 | FUNCTIONAL PROGRAMMING & Refactoring | [Click here](https://oebitw.github.io/301-Reading-Notes/read09)
-10 | Call Stack | [Click here]()
+10 | Call Stack | [Click here](https://oebitw.github.io/301-Reading-Notes/read10)
 11 | EJS template | [Click here]()
 12 | EJS Partials | [Click here]()
 13 | SENDING FORM DATA | [Click here]()
