@@ -90,28 +90,26 @@ In the `link.ejs` we will have :
 
 ```
 <%- include('../template/head')-%>
-
 <body class="text-center">
-
+<div class="cover-container d-flex w-100 h-100 p-3 mx-auto flex-column">
 <%- include('../template/nav')-%>
-
-<main>
-
+<main role="main" class="inner cover">
 <h1 class="cover-heading">Example with Links</h1>
-
-<ul>
-
+<ul class="list-group">
 <% links.forEach(function(entry) {%>
 <a href="<%= entry.url%>" class="list-group-item text-dark"><%=entry.name%></a>
-<%})
-
+<%});%>
 </ul>
-
 </main>
 <%- include('../template/footer')-%>
-
+</div>
 </body>
-
+<script>
+//Set active nav link
+window.onload = function() {
+document.getElementById('links').classList.add('active');
+};
+</script>
 </html>
 ```
 This time at res.render function after the name of the file we want to render we pass a JSON object.
