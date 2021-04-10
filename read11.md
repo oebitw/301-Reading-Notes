@@ -103,7 +103,7 @@ In the `link.ejs` we will have :
 
 <% links.forEach(function(entry) {%>
 <a href="<%= entry.url%>" class="list-group-item text-dark"><%=entry.name%></a>
-<%});%>
+<%})
 
 </ul>
 
