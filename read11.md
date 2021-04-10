@@ -7,11 +7,11 @@
 EJS simply stands for Embedded JavaScript templates, and we can use it both server-side or client-side. In this article, we’ll focus on the server-side.
 
 **Basic Syntax**:
-* <% 'Scriptlet' tag, for control-flow, no output.
+* `<% 'Scriptlet'` tag, for control-flow, no output.
 
-* <%= Outputs the value into the template (HTML escaped).
+* `<%= Outputs` the value into the template (HTML escaped).
 
-* <%- Outputs the unescaped value into the template.
+* `<%- Outputs` the unescaped value into the template.
 
 
 ## Partials
