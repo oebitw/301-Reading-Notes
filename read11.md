@@ -95,13 +95,7 @@ res.render('pages/links',{
 links:items
 });
 ```
-This JSON object will pass to the view pages/links.ejs. At this point, we use foreach function to iterate the links array and use “<%=” tag to output the properties url and name.
-
-```
-<% links.forEach(function(entry) {%>
-<a href="<%= entry.url%>" class="list-group-item text-dark"><%=entry.name%></a>
-<%});%>
-```
+This JSON object will pass to the view pages/links.ejs. At this point, we use foreach function to iterate the links array and use `“<%=”` tag to output the properties url and name.
 
 
 ## Conclusion
