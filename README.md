@@ -23,7 +23,7 @@ Read Num | Read title | Read link
 09 | FUNCTIONAL PROGRAMMING & Refactoring | [Click here](https://oebitw.github.io/301-Reading-Notes/read09)
 10 | Call Stack | [Click here](https://oebitw.github.io/301-Reading-Notes/read10)
 11 | EJS template | [Click here](https://oebitw.github.io/301-Reading-Notes/read11)
-12 | EJS Partials | [Click here](https://oebitw.github.io/301-Reading-Notes/read12)
+12 | EJS Partials | [Click here]()
 13 | SENDING FORM DATA | [Click here]()
 14 | DATABASE NORMALIZATION | [Click here]()
 15 | DIVERSITY AND INCLUSION | [Click here]()
