@@ -1,0 +1,66 @@
+# EJS Partials
+
+![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAB+CAMAAAA9WLe4AAAAkFBMVEW0ymWpHlC0zGWpGFC0z2a10WapEU+pF1C0wmSudFqueFmsW1Wzx2WrSFWsYle0yWWvjFyzt2OviF2sUlazvGOxnV+qOVOoAE+zwGSyrmGwmF6pJlGudVq0wWSztWKyp2CqPFOualiqMVKxomCwkl2sXFatZlirSVWuf1uvilypK1GysGGvgluyqmCub1msUFUp84OFAAAOlklEQVR4nO1diZaquhKVCg0o4IAMCrYi4NA4/f/fvSQMhhmH673rmb16rdOtQEhtqlJTOIMBBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHx4MAEMWfBKIowr99O/8hYMH0Bjx4apOcQfxZWKPdwSe4qSt3Jv5wUihAc4fD4WpIUfin7rONVjh3fWw9dTjVaocEWK8CJCAGgnf7M/EXnBRQVlJ//GmsxGDjtx++06oCBlBC35GQUIIsObZhal9PCSijsmhaMC0RolfkWsC4SggoG7XKRgIkSdfL4sspeZSQwrlPEDI7xlLLGZKw3ShfzciHNWQ5FtpPESR7dBp8MSUfJQROc7lzDCTcopq151vwSULAVLv5wJCD6+/XMvLRNWTbYa4yIGHNCelJyAsaApuefAjO+Wv5+CAhoFUXkCQoLEMef7Gj9ZrJ8mVUQgshG6/EhuzZvu/bsSAXzkP+8nv5qBDyUKR+mdtlFIReNFnXEh/+2LiclsvwbzW+BVKuPSiefrGTVSYkuA6bcS3nshahVcK0YMRYQmAxL6iPNw4HIslegSjCLBrehIySq/nFfJQIQQdlMploEwot+yX7E6N0chmiWVgnCoSc/AIh4xmTIwFxcprOqeFCt282WBVCdCLC4g/7V+fVZs2EhAFDCPKtcip/sJ76koCCaMIJYQh5zb9pIUSMYnagXdUugbYeOsL1iz0sgs8RMmUJEbaLusy85s6/NyRM8F8ihFDyyuj/F/iXCEG7GZd9Lf6tNcT+8rW7ER8jpOhlYe82/ObwrxmfI6QUh8j6ec2bGqr4HCGlSF1AwnwUauL/Cyd5cPzqdT5FSCWXhZUE+erQUt7ckfUuyRQvWR6hcoSWQillMx4eq5Q6gZ9GvBapD8AqE0ISvkLgq+e1+POU/OrEfpeMlh/0xKXZQcSTe39OQRQnigJFzQZtFHsJotpetAeGKyYXPb0RN7d7Yq2EKIe66gntkot31sPGCwtqoCjl00QrlQxKB4dTBC+oIH70L2Nnn5WUARYjwcHwrYL2R4GcPGDDVxMN5fR7ub6RQ44jsftqbSZLjBobgJDsSGqoTB7gBBTXJpIRjF8mywazNN0s62luBi6S8Pf7yJXZQWCx2UmStE0JgUEYJJNADhNJwTJdH5H6cqKhf4EqeJUQ0HZtPQ6yY/+te7vCMFMdKgQk+WEe0oCSLlQoCLNn+uIhKTDWT/REAsxCTIcg5IQMQjvXclnNGAHzmvLhW4+OUR20LyHoZUIGsD60dp0gJ5jO+vVkgTnP1U3GjKSfTqZxKrCjcieEsGYfL8pjlACso51AR8kIgTXVBCQlvZej1Chq6ajIO76eGf2ghpAqbkdfFpLmbp85gbaS7pLJDUVe5Efj3J5QQigl1MnuLRdYG3MvvdtcQwyabbgZI6IoSL8kn26yCGv8htLaJzUEP/ynbUfnohwce8wKLlQi/sggjgIp+iajj9N71Td3+37xMrLtq6X0owR+1qubl08lJQQWe8pDCNqZMBNP6bFZUQ75lze42h8lhNx9pDf1WqfjePvuhREMIuXAUBJm5CvJHYNyTGSPYqb2nxNCKdm7PSgBcX31hftEUOpl4XWL3PoVL0dLohTekZhKGGVHRmwJtCl46Br+oyaLHKHNRkJbuzXWoH23jpCbRrcTXhWIoyAnHk+eLWNz+3CR78MhFMwjrXUe2Jte7wNGj5ETn810dqTz0hsBXkyobTxixRTDdMbO9Z4uBeU8r8dt2DG5D2sIOUZbjJAjt6gJOnZmgslNUzcH9lL2m5nGOehQSO1PTjeHpcTzo5atXaCddvL95nCQ5E+zpQfMHflCNUG0CPexMcHUpG6E7DOLH/xe5UqHFIXU5Rh/nhAa0VlzT6jrkUulUC64Vy5BjBPyQxwnkEdVwjqFneo0Qoit4o2CONt7zFhI8gylthYG8LuZSyx78Y0JK3E8Tsyfdz1ZB/KtbQEo43QBiTfMqJiQBjHeneWmqZUIkZsgvRwYFmb+s4h2flBqkctv4tARj4BFnks035z29PwzNuvTVJDysWonxdnV91hKgvOsGphMzHDnMEsH8nduIcqHxJ+SHBoCIexUTc7ZCmUUBnwbIbHaiHHYadl7E0KF9KOEw90tQDXWS+5QEVBoH73sUGNEnCq4ZKZjXmsnYXa8ecyzLwU4MClf9FrQDv9a9pNBO95ppQpqpR4vKq57byOE9GVpTeiRxnyAEColEWbuaGxL5ehE2nbZrDBgWh0N7e572g2+J4imsStQEpeeMHyNu7Ql/bip6hAsjpn3JfnWBNa7VMyHS/G4whoiP7+GkL6sRrSLKLnaQ4QkcoKFdb6VXGGk1/ZAsOdFdmai4vMCW/f0RG/a+NxgSqJ9fB/JicqEqOl3yNGny9pcCyjuXHIkyRGuF7zijFI/OyhtMWrxslYPeVn/aD2k8SRxcDLsopJ4Xe2LMNhcPSIZR7UUADfNMaFh21YfADMc5nscGwlBvms2ZSOx7bu4xjRcLrAbEWV+9qo86mQxa4DZkZ7/NCEN09TCW5GRLj+LmI9lODWsi4mFdLklkpHmp47nD5T1Nh1CatQQT2/1jAcasSMDOGV+dk0z2dOG5s2EnG5NzdbJ95MGnYGBW+yBOPdw6UiZjsgHFlmO1+7KtmKztQq6NISs6HbU1SQGv+PUz/Z7uDu98WZCLoXu92spwMNeym1ZP08w96yKoGM3IferGulZ3rnVRmIGZ1evZQ2Zs56xPV20pezxXKRs1LeWi18gZFIxhxAWWktWpW+1KZ6nVR8tamd2awkaPnAfecqkNedCgvCxxHgPFUJ+VzbjgiPHbquiQOhlmeW3diO/QAiczhWLXWhP9EohGp0D8gyzbpaa8SQhMFNT06G3ZFtxTH/ZM2GGIHt62dLAILz6ckFLzpcGSsD0E42W/drAovG9PF3a9DwhsBjK4+IefzC3zMUEb1qwOzCj9SkkjS/VXFUpQO1vskAZpnwEUeO9Y/fK2gsFOubnGnUCCEdsNppQEtZRAto1uxptNSCtD2zjg7aZNsDq2PH9NCHY/ngIzUOWkTxwTVCMvGCxT+cgYVtQniTMdoVF/a83IVGuVHRvC3kGSy4SXjqiMRMTCpI3ns4annztcj4UKPGHNUYWssZYeaWRLTRLYzQcnfNmTFhsGzYFOl3t/c8TQisRkn++FxjgpBaEWlDmPHYTaI9cZBaERoqvrIYIfR0XWKcRiExyvFgTouNqdXQZqwjizFALdMhbt9ZqJoeDtp7qDkMJssdhabWErEgo0TzzbKR7WNjIJ9Ei/f59qZNJzzeSgZJEHLK3m/7+0M2C4kUtjs2+nQkmfzHDFopVY5ZfDkRtWtAtFPRsjgcly/F6GywZZTqPsWTkQHXzh/X3yNT+6OttwmY6UkpMy2YpkUq7iMDMSpN2SPhQ0/IJQno4eC8h9tloxSk/b5VNUo4P2+ikKJutXRxbYmOJPJbORkKeP45+k8IahGpc+FZWe7afwDkfjAR9xzhZkxGKjXSdgiX7+iEJbfs0O+BLYUrKJdz827tHOMULjJKYYjqwfKAW6Y3p93Z4bpopEi02my14Xhx7lWo544PVvWMAcxIH+u128wOvlIV3ei4hYtaWI2HfE7SIycUKaV9foYQrb9c9O7TwCh3Os9sqETKIYiZRA7TdDM+FDi6t6Er2e62vT72xQJXOMiEElnZJvtW6hrRj+Mhc0wonSJarNRHk93v5DJzSviL6YCaFbuxL0NVItpP85L3JQYhXyiMtq9jl2tn03oqEwClN89ANw8kLKlBgKNSjQT4RONbVpgbQ61s1JCUEzF2PYzfsJDa3B0aRjX585CmTgNyX9kf5GC9O1MI7rsgQgi3kaNGnPblEyZYEJgVCsLuf6odNlBBMWisbYdsVkc+9xB1pLGJ0tf4+R0gUVxSiItRrsW2x+9VlOdCuK/meXFKbpiG6NyKmQ9lK5AldACxpXXd4J0SOcdjxTIcvwGaoyw5DCHX3k1GP1Dot6R+RRmpk5Lc0Lfqe5GJPQgbLTg2R9VIUD+Yo7vW2LHxqz/6mjZ5ecEfNxO+cNqDgRcIkrSjSPjNZLWFHN0hgou/vTwhssky/SiNLWBMNRH+YEPoyF9SjJ711vKcIgfW2Xbiy7ZajcdBcvbX/JzvVd/uVUcxxoaMWe8DEmM+xZGgRQNpnGtIWdvQYB7TlJTc0sCiVJuGXLh3z9Y+ypU17L3bLPUcIlsaxrd8N2TVv6cOmZCh0KklvPrRjOhap4NIPRoTv2P1JMmqp1w1mR9jRYyj2JSDDLN2QJWrST/TxjSiINO9lblsGe44Q8rwHjc97k1Dh1yoXa8uQ9LDf9tyk8YQQMs4MvEVNhr1TqVFB2aP6zuR47u5Lu+w2caBDh0ve1HKX0JN4lpABDGbXSnNCIiFJr8kepicpERNwVU919mbP9vdF1ldtZ4sVtmFSIhnqqu7/gX3XsPaztjgmNenm4Q9Co3dv2OlNCHnyLvNKtxv+2zNaZIofV0uvfY8cOdXf9HSFAMaZ6QjzGBKWh1xppcM/8JInMFUpbVJjcm0wcX3SYIZkFJxfro2AspKlxu64crMcKiokiJc96XbLolKZbBkcdbQzA2kt122PdsfkVMgottWwv2d6dlLRjNj8zEX1knvxxv/EmyIgHKdNan+s4AHWw/lB12/bzetvHAZl2twbV8FuU35j1o9mXdW57pO3yek3dWj12YMBIpyMvXrTbVrfjgP/pm6jBwIFMLfpHW2LDWqKoWLJHHbRP/NOIbIlVvyp/r8PIGrr02nxlu3EtLT1k/4kwxV/2L9qRiTdbr/r0HXdcL2A3js3Sc3CXLrR+Xg8Tt2NOXjs/xCB/KbKkoHZ6WS+ss3zObx5I/aLeHJrOH29X6+65qM3876rcXBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHBwcHB8Mf4HPOIhwnoQwNMAAAAASUVORK5CYII=)
+
+
+
+
+Partials come in handy when you want to reuse the same HTML across multiple views. Think of partials as functions, they make large websites easier to maintain as you don’t have to go and change a piece of text in every page it appears in. Instead, you define that reusable bundle of code in a file andinclude it wherever you need it.
+
+## Example:
+
+* `App.js` File:
+
+```
+var express = require('express');
+var ejs = require('ejs');
+var app = express();
+app.set('view engine', 'ejs');
+app.get("/", function(req, res) {
+    res.render("home");
+});
+app.get("/about", function(req, res) {
+    res.render("about");
+});
+app.listen(3000, function() {
+    console.log("server is listening!!!");
+});
+```
+In our code above, we have included the express-ejs-layouts module and have also created a new route.
+
+Now, let's create our ejs files:
+
+We created 2 routes and have rendered both routes to an ejs file.
+
+Now let's create our ejs files.
+
+Open a text editor and type the following code, save as home.ejs
+
+```
+<%- include('partials/partial') %>
+    <h4> Home Page</h4>
+
+```
+
+The home.ejs file has a link to the partial.ejs file which serves as the partial.
+
+Open a text editor and type the following code, save as about.ejs
+
+```
+<h3> About US</h3>
+
+```
+* You can clearly see that the about.ejs file has no link to the partial so it won't display the partial.
+* Take a look at the different ejs tag used here.
+* The logic here is, the server which is the app.js file is linked to the home.ejs and about.ejs files which the home.ejs file is linked to the partial with file name partial.ejs.
+
+```
+<%- include('partials/partial') %>
+
+```
+
+The path indicates that the partial is located in the partials folder. Partials folder is found in the views folder which is the default template engine location for express.
+Take Note: The folder name views is not a random word I selected but it's the reserved folder name where express checks for template engine by default.
+
+
+
