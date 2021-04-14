@@ -25,5 +25,4 @@ Read Num | Read title | Read link
 11 | EJS template | [Click here](https://oebitw.github.io/301-Reading-Notes/read11)
 12 | EJS Partials | [Click here](https://oebitw.github.io/301-Reading-Notes/read12)
 13 | SENDING FORM DATA | [Click here](https://oebitw.github.io/301-Reading-Notes/read13)
-14 | DATABASE NORMALIZATION | [Click here]()
-15 | DIVERSITY AND INCLUSION | [Click here]()
+14 | DATABASE NORMALIZATION | [Click here](https://oebitw.github.io/301-Reading-Notes/read14)
